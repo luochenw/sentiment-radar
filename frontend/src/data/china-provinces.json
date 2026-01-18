@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "黑龙江", "name_en": "Heilongjiang" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[121, 53], [125, 53], [130, 50], [135, 48], [133, 45], [130, 43], [127, 45], [125, 45], [123, 47], [121, 48], [121, 53]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "吉林", "name_en": "Jilin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[121, 47], [125, 47], [130, 45], [130, 42], [128, 41], [125, 41], [122, 42], [121, 44], [121, 47]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "辽宁", "name_en": "Liaoning" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[119, 43], [122, 43], [125, 42], [125, 40], [124, 39], [121, 39], [120, 40], [119, 41], [119, 43]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "内蒙古", "name_en": "Inner Mongolia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[97, 42], [105, 42], [112, 42], [115, 45], [120, 50], [122, 52], [120, 48], [115, 43], [112, 40], [108, 38], [105, 38], [100, 40], [97, 42]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "新疆", "name_en": "Xinjiang" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73, 40], [80, 45], [88, 48], [96, 47], [96, 42], [92, 38], [88, 36], [80, 35], [73, 37], [73, 40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "西藏", "name_en": "Tibet" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[78, 35], [82, 34], [88, 34], [95, 33], [99, 32], [97, 28], [92, 27], [88, 28], [82, 28], [78, 30], [78, 35]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "青海", "name_en": "Qinghai" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[90, 38], [97, 38], [102, 36], [102, 33], [97, 32], [92, 33], [90, 35], [90, 38]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "甘肃", "name_en": "Gansu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[93, 42], [98, 40], [103, 37], [106, 35], [105, 33], [102, 33], [98, 34], [95, 36], [93, 38], [93, 42]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "宁夏", "name_en": "Ningxia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[105, 39], [107, 39], [107, 36], [105, 36], [105, 39]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "陕西", "name_en": "Shaanxi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[106, 39], [110, 40], [111, 38], [110, 35], [108, 32], [106, 32], [105, 34], [106, 37], [106, 39]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "山西", "name_en": "Shanxi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110, 40], [114, 40], [114, 37], [112, 35], [110, 35], [110, 40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "河北", "name_en": "Hebei" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[114, 42], [117, 42], [119, 40], [118, 38], [116, 36], [114, 36], [114, 38], [114, 42]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "北京", "name_en": "Beijing" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[115.5, 40.5], [117, 40.5], [117, 39.5], [115.5, 39.5], [115.5, 40.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "天津", "name_en": "Tianjin" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[117, 40], [118, 40], [118, 38.5], [117, 38.5], [117, 40]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "山东", "name_en": "Shandong" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[115, 38], [118, 38], [121, 37], [122, 36], [120, 35], [117, 34], [115, 35], [115, 38]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "河南", "name_en": "Henan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[110, 36], [114, 36], [116, 35], [116, 32], [113, 31], [110, 32], [110, 36]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "江苏", "name_en": "Jiangsu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116, 35], [119, 35], [121, 33], [121, 31], [118, 31], [116, 32], [116, 35]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "安徽", "name_en": "Anhui" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[115, 34], [118, 34], [119, 32], [118, 30], [115, 30], [115, 32], [115, 34]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "上海", "name_en": "Shanghai" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[121, 31.5], [122, 31.5], [122, 30.5], [121, 30.5], [121, 31.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "浙江", "name_en": "Zhejiang" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118, 31], [121, 31], [122, 29], [121, 27], [118, 27], [118, 29], [118, 31]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "福建", "name_en": "Fujian" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116, 28], [119, 28], [120, 26], [119, 24], [117, 23], [116, 25], [116, 28]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "江西", "name_en": "Jiangxi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[114, 30], [117, 30], [118, 28], [117, 25], [115, 25], [113, 26], [114, 28], [114, 30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "湖北", "name_en": "Hubei" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[108, 33], [112, 33], [115, 32], [116, 30], [114, 29], [110, 29], [108, 30], [108, 33]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "湖南", "name_en": "Hunan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[109, 30], [113, 30], [114, 28], [113, 25], [111, 24], [109, 25], [109, 28], [109, 30]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "广东", "name_en": "Guangdong" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[109, 25], [113, 25], [117, 24], [117, 22], [114, 21], [111, 20], [109, 21], [109, 23], [109, 25]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "广西", "name_en": "Guangxi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[104, 26], [109, 26], [111, 24], [110, 21], [107, 21], [105, 22], [104, 24], [104, 26]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "海南", "name_en": "Hainan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[108, 20], [111, 20], [111, 18], [109, 18], [108, 19], [108, 20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "四川", "name_en": "Sichuan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[97, 34], [102, 34], [106, 32], [108, 30], [107, 27], [103, 26], [99, 27], [97, 30], [97, 34]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "重庆", "name_en": "Chongqing" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[106, 32], [109, 32], [110, 30], [109, 28], [106, 28], [106, 30], [106, 32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "贵州", "name_en": "Guizhou" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[104, 29], [108, 29], [109, 27], [109, 25], [106, 24], [104, 25], [104, 27], [104, 29]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "云南", "name_en": "Yunnan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[97, 29], [102, 28], [105, 26], [106, 23], [103, 21], [99, 22], [97, 24], [97, 27], [97, 29]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "香港", "name_en": "Hong Kong" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[113.8, 22.5], [114.5, 22.5], [114.5, 22.1], [113.8, 22.1], [113.8, 22.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "澳门", "name_en": "Macau" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[113.5, 22.25], [113.6, 22.25], [113.6, 22.1], [113.5, 22.1], [113.5, 22.25]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "台湾", "name_en": "Taiwan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[120, 25.5], [121.5, 25.5], [122, 24], [121.5, 22], [120, 22], [120, 24], [120, 25.5]]]
+      }
+    }
+  ]
+}
